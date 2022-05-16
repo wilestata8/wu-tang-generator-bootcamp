@@ -1,0 +1,66 @@
+body{
+  background-image: url("../img/Wu-Tang\ Clan\,\ Of\ Mics\ And\ Men.jpeg");
+  background-repeat: no-repeat;
+  background-size: 1350px 900px;
+float: right;
+font-family: 'Roboto Slab', serif;
+margin-right: 274px;
+}
+.wrapper{
+  background-color:rgba(255, 214, 8, 0.9);
+  text-align: center;
+  margin-top: 89px;
+  height: 651px;
+  width: 62%;
+  border-radius: 10%;
+  
+}
+h1{
+  color: whitesmoke;
+  font-size: 3em;
+  letter-spacing: 0.3em;
+  padding-top: 10px;
+}
+h2{
+  font-style: italic;
+    font-size: 2em;
+}
+.container{
+  color: whitesmoke;
+  font-weight: bolder;
+  font-size: 17px;
+}
+#first label,
+#third label,
+#fifth label{
+  font-size: 1.5em;
+  color: whitesmoke;
+
+}
+#second label,
+#fourth label{
+  
+  font-size: 1.5em;
+  color: black;
+
+}
+.resultButton{
+  margin-top: 20px;
+}
+button{
+  background-color: #ffd608;
+  color: whitesmoke;
+  font-family: 'Roboto Slab', serif;
+  width: 125px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.finalName{
+  border: 3px solid black;
+  width: 52%;
+  height: 50px;
+  border-radius: 18%;
+  margin-left: 130px;
+  font-size: 20px;
+  color: darkred;
+}
