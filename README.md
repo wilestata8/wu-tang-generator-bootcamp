@@ -4,7 +4,7 @@
 
 - Code on Anwser branch
 
-**Link To Project:** https://africanmatchgame.netlify.app/
+**Link To Project:** https://wutanggenerator.netlify.app/
 <img src= "snap.jpg" width =80%>
 
 
