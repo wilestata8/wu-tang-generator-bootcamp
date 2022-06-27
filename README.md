@@ -6,6 +6,8 @@
 
 **Link To Project:** https://wutanggenerator.netlify.app/
 
+<img src= "snap1.jpg" width =80%>
+
 
 
 
